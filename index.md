@@ -15,3 +15,6 @@ This an ordered list:
 1. first item in ordered list
 1. this is another item
 1. this is yet another item
+
+So now, I will addd in a figure.
+![this is alternative-text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
