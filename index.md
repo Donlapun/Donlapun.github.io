@@ -25,3 +25,5 @@ So now, I will addd in a figure.
 ### Last thing
 
 Adding in a link : [this is a link](https://github.com/Donlapun/Donlapun.github.io/blob/main/pic3.jpg)
+
+I can also link to [google](https://www.google.com/)
