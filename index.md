@@ -5,3 +5,13 @@
 This could be the body of this subsection.
 
 ### This is a sub-subsection header
+
+This is a way to make an un-order list:
+* first bullet point
+* second bullet point
+* third bullet point
+
+This an ordered list:
+1. first item in ordered list
+1. this is another item
+1. this is yet another item
