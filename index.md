@@ -19,3 +19,5 @@ This an ordered list:
 So now, I will addd in a figure.
 
 ![this is alternative-text for this figure](https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png)
+
+![adding another photo](https://github.com/Donlapun/Donlapun.github.io/blob/main/pic3.jpg)
